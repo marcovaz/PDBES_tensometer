@@ -1,0 +1,6 @@
+- Quick start guide: http://toroid.org/ams/git-central-repo-howto
+- To check out a working copy of an existing repository in another machine: git clone ssh://git@github.com:marcovaz/PDBES_tensometer.git
+- To communicate with the master repository: git pull to get the changes, git push to commit them onto the master: git push git@github.com:marcovaz/PDBES_tensometer.git or git pull git@github.com:marcovaz/PDBES_tensometer.git
+- To add a new file in the repository: git add myfile
+- To commit the changes into your own local repository: git commit -m "my commit message"
+- To check which files have been changed, which files are to be committed, etc: git status
