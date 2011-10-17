@@ -3,6 +3,7 @@ LEARNING GIT
 - Quick start guide: http://toroid.org/ams/git-central-repo-howto
 - Git Magic (highly educative reference, with translations and PDF versions): http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html
 
+
 QUICK COMMANDS TO START
 - To check out a working copy of an existing repository in another machine
 	git clone ssh://git@github.com:marcovaz/PDBES_tensometer.git
