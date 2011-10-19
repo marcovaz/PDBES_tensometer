@@ -12,7 +12,7 @@ QUICK COMMANDS TO START
 	git pull -u origin master
 - To add a new file in the repository
 	git add myfile
-- To edit a gile content in the repository
+- To edit a file content in the repository
 	git checkout myfile
 - To commit the changes into your own local repository
 	git commit -m "my commit message"
