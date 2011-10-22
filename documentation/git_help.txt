@@ -18,3 +18,7 @@ QUICK COMMANDS TO START
 	git commit -m "my commit message"
 - To check which files have been changed, which files are to be committed, etc
 	git status
+
+
+AYUDA PARA DESHACER CAMBIOS:
+	http://learn.github.com/p/undoing.html
