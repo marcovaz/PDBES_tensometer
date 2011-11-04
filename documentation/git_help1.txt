@@ -1,0 +1,24 @@
+PRUEBA  LEARNING GIT
+- Git book: http://book.git-scm.com/
+- Quick start guide: http://toroid.org/ams/git-central-repo-howto
+- Git Magic (highly educative reference, with translations and PDF versions): http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html
+
+
+QUICK COMMANDS TO START
+- To check out a working copy of an existing repository in another machine
+	git clone ssh://git@github.com:marcovaz/PDBES_tensometer.git
+- To communicate with the master repository: git pull to get the changes, git push to commit them onto the master
+	git push -u origin master
+	git pull -u origin master
+- To add a new file in the repository
+	git add myfile
+- To edit a file content in the repository
+	git checkout myfile
+- To commit the changes into your own local repository
+	git commit -m "my commit message"
+- To check which files have been changed, which files are to be committed, etc
+	git status
+
+
+AYUDA PARA DESHACER CAMBIOS:
+	http://learn.github.com/p/undoing.html
