@@ -1,4 +1,4 @@
-LEARNING GIT
+ PRUEBA  LEARNING GIT
 - Git book: http://book.git-scm.com/
 - Quick start guide: http://toroid.org/ams/git-central-repo-howto
 - Git Magic (highly educative reference, with translations and PDF versions): http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html
